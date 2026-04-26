@@ -1,4 +1,4 @@
-# 🌍 Atlas Territorial · Motor Global de Habitabilidad
+# 🌍Geohabitat· Motor Global de Habitabilidad
 
 > Sistema de análisis territorial, genoma ambiental y scoring de habitabilidad. Mundo 3D interactivo, estética científica vintage, datos públicos reales.
 
